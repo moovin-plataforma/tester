@@ -6,11 +6,11 @@ Identificar as diferenças entre o layout proposto pelo designer e que foi imple
 
 ### Como realizar
 
-Você deve enviar um documento de texto contendo os cenários que você identificou, de uma forma em que o time de desenvolvimento possa entender e realizar os ajutes/correções necessários.
+Você deve enviar um documento em PDF contendo todos os cenários que você identificou, de uma forma em que o time de desenvolvimento possa entender e realizar os ajutes/correções necessários.
 
 ### Instruções
 
-Você deve acessar o site onde uma loja virtual foi implementada e identificar quais pontos da "vitrine de produtos" precisam ser ajustados para que fique de acordo com o layout proposto.
+Você deve acessar o site onde uma loja virtual foi implementada e identificar quais pontos da "vitrine de produtos" precisam ser ajustados para que fique de acordo com o layout proposto. 
 
 Site: https://app-tester.vercel.app/
 
